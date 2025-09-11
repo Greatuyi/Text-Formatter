@@ -1,0 +1,63 @@
+
+*#LHR
+
+*#HIR
+
+
+1. this        one,     two       and         three.
+
+Your flight departs from #HAJ, and your destination is ##EDDW.
+
+Flight Itinerary
+Passenger: Marie Charlie
+
+
+ D(2022-05-09T08:07Z)
+ T12(2069-04-24T19:18-02:00)
+ T12(2080-05-04T14:54Z)
+ T12(1980-02-17T03:30+11:00)
+ T12(2029-09-04T03:09Z)
+ T24(2032-07-17T04:08+13:00)
+ T24(2084-04-13T17:54Z)
+ T24(2024-07-23T15:29-11:00)
+ T24(2042-09-01T21:43Z)
+
+Flight Details:
+
+Flight Number: AB1234 
+Departure: #JFK 
+Arrival: ##EGLL 
+Date: D(2025-03-15T14:30-04:00) 
+Departure Time: T12(2025-03-15T14:30-04:00) 
+Arrival Time: T24(2025-03-16T06:30+00:00) 
+
+Line1\rLine2\vLine3\fLine4
+
+D(2022-05-09T08:07Z)\v2.     T12(2069-04-24T19:18-02:00)\f3. T12(2080-05-04T14:54Z)\r4. T12(1980-02-17T03:30+11:00)
+
+
+1. uisduisidfsiud
+
+
+Layover: Location: *#CDG Duration: 2 hours
+
+
+
+
+
+Connecting Flight: 
+
+Flight Number: CD5678 
+Departure: #LFP
+Arrival: #LAX 
+Date: D(2025-03-16T09:00+01:00) 
+Departure Time: T12(2025-03-16T09:00+01:00) 
+Arrival Time: T24(2042-09-01T21:43Z) 
+
+Additional Information: Please arrive at the airport at least 2 hours before departure. Have a pleasant trip! 
+
+
+
+
+
+Contact Information: Airline: Example Air Customer Service: 1-800-EXAMPLE
